@@ -1,0 +1,11 @@
+itens selecionados: 
+60 61 
+53 57 
+12 0 
+99 45 
+15 17 
+30 1 
+71 51 
+82 75 
+59 48 
+soma total = 481 Peso_total_itens= 355 
